@@ -1,0 +1,8 @@
+C:\Users\adriel.grodrigues\source\repos\atvClasseFuncionario\atvClasseFuncionario\obj\Debug\atvClasseFuncionario.csproj.AssemblyReference.cache
+C:\Users\adriel.grodrigues\source\repos\atvClasseFuncionario\atvClasseFuncionario\obj\Debug\atvClasseFuncionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\adriel.grodrigues\source\repos\atvClasseFuncionario\atvClasseFuncionario\obj\Debug\atvClasseFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\adriel.grodrigues\source\repos\atvClasseFuncionario\atvClasseFuncionario\bin\Debug\atvClasseFuncionario.exe.config
+C:\Users\adriel.grodrigues\source\repos\atvClasseFuncionario\atvClasseFuncionario\bin\Debug\atvClasseFuncionario.exe
+C:\Users\adriel.grodrigues\source\repos\atvClasseFuncionario\atvClasseFuncionario\bin\Debug\atvClasseFuncionario.pdb
+C:\Users\adriel.grodrigues\source\repos\atvClasseFuncionario\atvClasseFuncionario\obj\Debug\atvClasseFuncionario.exe
+C:\Users\adriel.grodrigues\source\repos\atvClasseFuncionario\atvClasseFuncionario\obj\Debug\atvClasseFuncionario.pdb
